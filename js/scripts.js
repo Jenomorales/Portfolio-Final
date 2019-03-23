@@ -1,5 +1,9 @@
 // Everything OK?
 
+// Hide Lightbox
+// $('#lightbox').hide();
+
+// Show Lightbox
 $('a').click( function( event ){
 
     // Hijack the Click
@@ -17,4 +21,3 @@ $('#lightbox').click(function(){
    $('#lightbox').toggleClass('showLightbox');
       
 });
-// Your Awesome Scripts
