@@ -9,7 +9,7 @@ header {
 background: url(https://raw.githubusercontent.com/Jenomorales/Portfolio-Final/master/img/headerbackground.png);
 background-repeat: no-repeat;
 background-size: cover;
-height: 55vh;
+height: 500px;
 width: 100%;
 border-top: solid .5px white;
 }
@@ -19,6 +19,7 @@ font-size: 32px;
 color: white;
 margin-left: 50px;
 letter-spacing: 10px;
+margin-top: 70px;
 }
 
 .subtitle {
@@ -44,35 +45,40 @@ margin-left: 50px;
 letter-spacing: 10px; 
 margin-top: 65px;
 }
-
+.about {
+margin-top: 80px;
+}
 .name {
-font-family: 'Roboto', sans-serif;
+font-family: 'Abel', sans-serif;
 text-align: center;
-font-size: 14px;
+font-size: 16px;
 color: black;
-margin-left: 50px;
 letter-spacing: 2;
-width: 470px;
-border: solid 1px red;
-width: 1000px;
-margin-left: 10%;
-margin-right: 20%;
+width: 100%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 20px;
 }
 
+.self {
+margin-top: 80px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 350px;
+
+}
 
 .body {
-font-family: 'Roboto', sans-serif;
+font-family: 'Abel', sans-serif;
 text-align: center;
 font-size: 15px;
 color: black;
-margin-left: 50px;
 letter-spacing: 2;
 line-height: 1.6;
-width: 470px;
-margin-left: 10%;
-margin-right: 20%;
-border: solid 1px red;
-width: 1000px;
+width: 70%;
+margin-left: auto;
+margin-right: auto;
 height: 100%;
 
 }
