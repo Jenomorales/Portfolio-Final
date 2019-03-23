@@ -2,11 +2,9 @@
   DIAGNOSTIC STYLING
 */
 body {
-  background: gray;
+  background: white;
 }
 
-* {
-  outline: 1px dotted black;
-}
+
 
 /* Your Awesome Scripts */
