@@ -76,7 +76,7 @@ margin-top: 100px;
   /*  Dimensions of Lightbox  */
   background: rgba(0,0,0,.5);
   width: 100vw;
-  height: 2300px;
+  height: 1700px;
   
   /*  Reposition  */
   position: absolute;
@@ -98,6 +98,17 @@ margin-top: 100px;
 width: 900px;
 }
 
+.vimeo {
+
+width: 56.5%;
+display:flex;
+height: 1400px;
+flex-direction: column;
+justify-content: space-between;
+margin-left: auto;
+margin-right: auto;
+margin-top: 150px;
+}
 .video {
 border: solid 2px rgb(109, 109, 109);
 width: 640px;
@@ -106,6 +117,7 @@ margin-right: auto;
 margin-left: auto;
 margin-top: 100px;
 }
+
 .about {
 margin-top: 300px;
 
